@@ -1,15 +1,15 @@
 # Progress — C# Fundamentals
 
 ## Status
-Current workshop: Not started  
-Current exercise: N/A  
+Current workshop: 01-your-first-csharp-program  
+Current exercise: Exercise 1 — Creating and running a project  
 Last updated: 2026-06-08
 
 ## Workshops
 
 | Workshop | Status | Notes |
 |----------|--------|-------|
-| 01-your-first-csharp-program | Not Started | |
+| 01-your-first-csharp-program | In Progress | |
 | 02-types-and-variables | Not Started | |
 | 03-working-with-numbers | Not Started | |
 | 04-booleans-and-comparisons | Not Started | |

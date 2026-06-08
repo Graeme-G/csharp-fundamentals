@@ -6,7 +6,7 @@ This module builds the foundation everything else depends on. Starting from zero
 
 By the end of this module you will be able to read and write basic C# programs with confidence and have a solid mental model of how the language works before moving into object-oriented programming.
 
-This module is a **git repository**. Initialise it before starting workshop 1.
+This module is a **git repository**. Each workshop is developed on its own branch named after the workshop (e.g. `01-your-first-csharp-program`), and merged to `main` once all exercises have passed feedback.
 
 ---
 
